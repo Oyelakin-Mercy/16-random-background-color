@@ -1,1 +1,1 @@
-# 16-random-background-color
+# 16 random background colors
